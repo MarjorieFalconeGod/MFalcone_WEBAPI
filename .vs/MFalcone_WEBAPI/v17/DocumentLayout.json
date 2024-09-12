@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marjo\\Desktop\\Prueba12092024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27542ABA-542A-41D7-B195-5B8B55BF102F}|MFalcone_WEBAPI.csproj|c:\\users\\marjo\\desktop\\prueba12092024\\services\\usuarios\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27542ABA-542A-41D7-B195-5B8B55BF102F}|MFalcone_WEBAPI.csproj|solutionrelative:services\\usuarios\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27542ABA-542A-41D7-B195-5B8B55BF102F}|MFalcone_WEBAPI.csproj|c:\\users\\marjo\\desktop\\prueba12092024\\models\\m_falcone_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27542ABA-542A-41D7-B195-5B8B55BF102F}|MFalcone_WEBAPI.csproj|solutionrelative:models\\m_falcone_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27542ABA-542A-41D7-B195-5B8B55BF102F}|MFalcone_WEBAPI.csproj|c:\\users\\marjo\\desktop\\prueba12092024\\services\\solicituds\\solicitudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27542ABA-542A-41D7-B195-5B8B55BF102F}|MFalcone_WEBAPI.csproj|solutionrelative:services\\solicituds\\solicitudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "M_Falcone_Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\marjo\\Desktop\\Prueba12092024\\Models\\M_Falcone_Usuario.cs",
+              "RelativeDocumentMoniker": "Models\\M_Falcone_Usuario.cs",
+              "ToolTip": "C:\\Users\\marjo\\Desktop\\Prueba12092024\\Models\\M_Falcone_Usuario.cs",
+              "RelativeToolTip": "Models\\M_Falcone_Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T20:16:42.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\marjo\\Desktop\\Prueba12092024\\Services\\Usuarios\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "Services\\Usuarios\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\marjo\\Desktop\\Prueba12092024\\Services\\Usuarios\\UsuarioService.cs",
+              "RelativeToolTip": "Services\\Usuarios\\UsuarioService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T19:50:53.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SolicitudService.cs",
+              "DocumentMoniker": "C:\\Users\\marjo\\Desktop\\Prueba12092024\\Services\\Solicituds\\SolicitudService.cs",
+              "RelativeDocumentMoniker": "Services\\Solicituds\\SolicitudService.cs",
+              "ToolTip": "C:\\Users\\marjo\\Desktop\\Prueba12092024\\Services\\Solicituds\\SolicitudService.cs",
+              "RelativeToolTip": "Services\\Solicituds\\SolicitudService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAiwAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T19:29:00.426Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
