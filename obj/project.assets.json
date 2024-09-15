@@ -2444,11 +2444,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marjo\\Desktop\\Prueba12092024\\MFalcone_WEBAPI.csproj",
+      "projectUniqueName": "C:\\Users\\marjo\\Desktop\\MFalcone_WEBAPI\\MFalcone_WEBAPI.csproj",
       "projectName": "MFalcone_WEBAPI",
-      "projectPath": "C:\\Users\\marjo\\Desktop\\Prueba12092024\\MFalcone_WEBAPI.csproj",
+      "projectPath": "C:\\Users\\marjo\\Desktop\\MFalcone_WEBAPI\\MFalcone_WEBAPI.csproj",
       "packagesPath": "C:\\Users\\marjo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marjo\\Desktop\\Prueba12092024\\obj\\",
+      "outputPath": "C:\\Users\\marjo\\Desktop\\MFalcone_WEBAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\marjo\\AppData\\Roaming\\NuGet\\NuGet.Config",
